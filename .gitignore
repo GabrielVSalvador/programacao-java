@@ -1,0 +1,18 @@
+# Arquivos compilados (Bytecode)
+*.class
+
+# Pastas de saída do Eclipse
+bin/
+
+# Arquivos de configuração do Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log

@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/home/gabrielvs/eclipse-workspace/programacao-java/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-1807660299.index
-4072137905.index
